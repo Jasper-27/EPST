@@ -1,8 +1,8 @@
 {
-  "name": "electron2",
+  "name": "EPST",
   "version": "1.0.0",
   "description": "Just a test application",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron main.js",
     "test": "echo \"Error: no test specified\" && exit 1"

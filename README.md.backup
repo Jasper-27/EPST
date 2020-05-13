@@ -23,7 +23,7 @@ The application is deliberately simple and has only one screen. This is how it l
 
 ### Diagram 
 
-A labelled diagram encase any of it is unclear 
+A labelled diagram in case any of it is unclear 
 
 ![Diagrammed home screen ](images/diagram.png)
 
@@ -45,6 +45,11 @@ This is what it looks like when the password is hidden
 
 - Linux 
 
-	- [Deb (Debian, Ubuntu)](installers/epst_1.0.0_amd64.deb)
+	- [DEB (Debian, Ubuntu)](installers/epst_1.0.0_amd64.deb)
 
 	- [RPM  (Fedora)](installers/epst_1.0.0_amd64.deb)
+	
+- Windows  
+
+	- [ZIP archive with an EXE inside](installers/EPST.zip)
+

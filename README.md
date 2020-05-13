@@ -23,7 +23,7 @@ The application is deliberately simple and has only one screen. This is how it l
 
 ### Diagram 
 
-A labelled diagram encase any of it is unclear 
+A labelled diagram in case any of it is unclear 
 
 ![Diagrammed home screen ](images/diagram.png)
 

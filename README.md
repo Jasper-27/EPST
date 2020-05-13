@@ -45,6 +45,6 @@ This is what it looks like when the password is hidden
 
 - Linux 
 
-	- [Deb (Debian, Ubuntu)](installers/epst_1.0.0_amd64.deb)
+	- [DEB (Debian, Ubuntu)](installers/epst_1.0.0_amd64.deb)
 
 	- [RPM  (Fedora)](installers/epst_1.0.0_amd64.deb)

@@ -1,0 +1,87 @@
+
+html,body,h1,h2,h3,h4,h5,h6,p {
+  font-family: "Open Sans", sans-serif;
+  color: lightgrey;
+}
+
+/*the style of the body */
+body {
+  background-color: #303030;
+}
+
+.mainInput {
+  width: 95%;
+  padding: 2px 2px;
+  margin: 10px 0;
+  border: 2px solid #222222;
+  border-radius: 4px;
+  box-sizing: border-box;
+  text-align: center;
+  font-weight: bold;
+  background-color: #272727;
+  font-size: 20px;
+  color: lightgrey;
+}
+
+.clear-button {
+  width: 40%;
+  height: 50px;
+  Margin: 10px 0;
+  border: 2px solid #222222;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: bold;
+  background-color: #272727;
+  color: lightgrey;
+}
+
+.show-button {
+  width: 40%;
+  height: 50px;
+
+  Margin: 10px 0;
+  border: 2px solid #222222;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: bold;
+  background-color: #272727;
+  color: lightgrey;
+}
+
+/*Formatting for the table*/
+td, th {
+  text-align: left;
+  padding: 4px;
+}
+
+/*
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+*/
+
+.results-table {
+    border: 1px solid #dddddd;
+    color: lightgrey;
+    float: center;
+    min-width: 80%;
+}
+
+.result {
+    font-size: 20px;
+}
+
+
+/* responsive, form small screens */
+@media (max-width: 775px) {
+  .results-table {
+    float: center;
+    min-width: 100%;
+    }
+
+  .pageTitle {
+    font-size: 40px;
+  }
+
+
+}

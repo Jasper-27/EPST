@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Jasper-27/EPST#readme",
   "devDependencies": {
-    "electron": "^9.0.4",
+    "electron": "^9.3.1",
     "electron-installer-dmg": "^3.0.0"
   },
   "dependencies": {}
